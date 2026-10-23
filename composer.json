@@ -1,0 +1,20 @@
+{
+    " name\: \tamfansdanberani/qris-static-to-dynamic-emvco\,
+ \description\: \Universal PHP library to convert Indonesian Static QRIS to Dynamic QRIS with custom nominal and CRC16-CCITT recalculation.\,
+ \type\: \library\,
+ \license\: \MIT\,
+ \authors\: [
+ {
+ \name\: \Tamsfinity\,
+ \email\: \support@tamsfinity.web.id\
+ }
+ ],
+ \require\: {
+ \php\: \>=7.4\
+ },
+ \autoload\: {
+ \psr-4\: {
+ \Tamsfinity\\\\Qris\\\\\: \src/\
+ }
+ }
+}
